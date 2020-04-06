@@ -22,9 +22,6 @@ The total net amount of "Profit/Losses" over the entire period
 The average change in "Profit/Losses" between months over the entire period
 The greatest increase in profits (date and amount) over the entire period
 The greatest decrease in losses (date and amount) over the entire period
-## Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
 
 
 ## Considerations
@@ -35,3 +32,7 @@ Store contents in variables, lists, and dictionaries
 Iterate through basic data structures
 
 Debug along the way
+
+## Copyright
+
+Trilogy Education Services © 2019. All Rights Reserved
